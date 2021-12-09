@@ -1,0 +1,2361 @@
+[
+  {
+    "object": "block",
+    "id": "b5a309b8-6aec-48ab-b51d-1e2e3d955300",
+    "created_time": "2021-11-22T10:42:00.000Z",
+    "last_edited_time": "2021-11-22T10:42:00.000Z",
+    "has_children": true,
+    "archived": false,
+    "type": "column_list",
+    "column_list": {
+      "children": {
+        "object": "list",
+        "results": [
+          {
+            "object": "block",
+            "id": "98735f12-e40e-4095-9856-560ee510686e",
+            "created_time": "2021-11-22T10:42:00.000Z",
+            "last_edited_time": "2021-11-23T17:17:00.000Z",
+            "has_children": true,
+            "archived": false,
+            "type": "column",
+            "column": {
+              "children": {
+                "object": "list",
+                "results": [
+                  {
+                    "object": "block",
+                    "id": "5decb371-dbb9-4dd5-b6f2-0123bb755274",
+                    "created_time": "2021-11-22T10:40:00.000Z",
+                    "last_edited_time": "2021-11-22T10:42:00.000Z",
+                    "has_children": false,
+                    "archived": false,
+                    "type": "paragraph",
+                    "paragraph": {
+                      "text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Joining forces with our ",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Joining forces with our ",
+                          "href": null
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Cluster of Excellence",
+                            "link": {
+                              "url": "https://www.machinelearningforscience.de/en/"
+                            }
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Cluster of Excellence",
+                          "href": "https://www.machinelearningforscience.de/en/"
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": " colleagues from ",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": " colleagues from ",
+                          "href": null
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Machine Learning in Science",
+                            "link": {
+                              "url": "https://mackelab.org"
+                            }
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Machine Learning in Science",
+                          "href": "https://mackelab.org"
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": " and dear ",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": " and dear ",
+                          "href": null
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Helmholtz AI",
+                            "link": {
+                              "url": "https://www.helmholtz.ai/themenmenue/our-research/consultant-teams/helmholtz-ai-consultants-hzdr/index.html"
+                            }
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Helmholtz AI",
+                          "href": "https://www.helmholtz.ai/themenmenue/our-research/consultant-teams/helmholtz-ai-consultants-hzdr/index.html"
+                        },
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": " colleagues from Dresden, Jülich and Geesthach, we held our first international workshop, around the topic of simulation-based inference.",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": " colleagues from Dresden, Jülich and Geesthach, we held our first international workshop, around the topic of simulation-based inference.",
+                          "href": null
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "object": "block",
+                    "id": "a3dc5e6b-0b2e-4c64-a41a-dabd24690019",
+                    "created_time": "2021-11-22T10:40:00.000Z",
+                    "last_edited_time": "2021-11-22T10:42:00.000Z",
+                    "has_children": false,
+                    "archived": false,
+                    "type": "paragraph",
+                    "paragraph": {
+                      "text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "During three intense days combining lectures, tutorials, and hands-on exercises, we worked together with simulation scientists from all around the world including various institutions in the UK, EMBL, Fermilab, Michigan, Paris, Leipzig, and Tübingen.",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "During three intense days combining lectures, tutorials, and hands-on exercises, we worked together with simulation scientists from all around the world including various institutions in the UK, EMBL, Fermilab, Michigan, Paris, Leipzig, and Tübingen.",
+                          "href": null
+                        }
+                      ]
+                    }
+                  }
+                ],
+                "next_cursor": null,
+                "has_more": false
+              }
+            }
+          },
+          {
+            "object": "block",
+            "id": "86aaec02-820e-42ca-af72-729fb1e6c83b",
+            "created_time": "2021-11-22T10:42:00.000Z",
+            "last_edited_time": "2021-11-22T10:42:00.000Z",
+            "has_children": true,
+            "archived": false,
+            "type": "column",
+            "column": {
+              "children": {
+                "object": "list",
+                "results": [
+                  {
+                    "object": "block",
+                    "id": "b95b6f39-1716-4558-aee4-a3e136cfcf0f",
+                    "created_time": "2021-11-22T10:40:00.000Z",
+                    "last_edited_time": "2021-11-22T10:42:00.000Z",
+                    "has_children": true,
+                    "archived": false,
+                    "type": "paragraph",
+                    "paragraph": {
+                      "text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Simulation-based inference",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": true,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Simulation-based inference",
+                          "href": null
+                        }
+                      ],
+                      "children": {
+                        "object": "list",
+                        "results": [
+                          {
+                            "object": "block",
+                            "id": "21f936a0-0e34-4a41-8f43-07593bb2864a",
+                            "created_time": "2021-11-22T10:40:00.000Z",
+                            "last_edited_time": "2021-11-22T10:40:00.000Z",
+                            "has_children": false,
+                            "archived": false,
+                            "type": "paragraph",
+                            "paragraph": {
+                              "text": [
+                                {
+                                  "type": "text",
+                                  "text": {
+                                    "content": "Numerical simulators are essential to modern science. With the right parameter values, simulator code can predict the weather, give insight on an exploding star, or forecast how many emergency beds will be needed during epidemic outbreaks. But how to find those ",
+                                    "link": null
+                                  },
+                                  "annotations": {
+                                    "bold": false,
+                                    "italic": false,
+                                    "strikethrough": false,
+                                    "underline": false,
+                                    "code": false,
+                                    "color": "default"
+                                  },
+                                  "plain_text": "Numerical simulators are essential to modern science. With the right parameter values, simulator code can predict the weather, give insight on an exploding star, or forecast how many emergency beds will be needed during epidemic outbreaks. But how to find those ",
+                                  "href": null
+                                },
+                                {
+                                  "type": "text",
+                                  "text": {
+                                    "content": "right parameters",
+                                    "link": null
+                                  },
+                                  "annotations": {
+                                    "bold": false,
+                                    "italic": true,
+                                    "strikethrough": false,
+                                    "underline": false,
+                                    "code": false,
+                                    "color": "default"
+                                  },
+                                  "plain_text": "right parameters",
+                                  "href": null
+                                },
+                                {
+                                  "type": "text",
+                                  "text": {
+                                    "content": "? Simulation-based inference uses recent advances in machine learning to identify those parameters that are compatible with the observations — often not just one set, but several!",
+                                    "link": null
+                                  },
+                                  "annotations": {
+                                    "bold": false,
+                                    "italic": false,
+                                    "strikethrough": false,
+                                    "underline": false,
+                                    "code": false,
+                                    "color": "default"
+                                  },
+                                  "plain_text": "? Simulation-based inference uses recent advances in machine learning to identify those parameters that are compatible with the observations — often not just one set, but several!",
+                                  "href": null
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "next_cursor": null,
+                        "has_more": false
+                      }
+                    }
+                  }
+                ],
+                "next_cursor": null,
+                "has_more": false
+              }
+            }
+          }
+        ],
+        "next_cursor": null,
+        "has_more": false
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "830860c5-8891-438b-83ae-53b7b2099d2c",
+    "created_time": "2021-11-22T10:43:00.000Z",
+    "last_edited_time": "2021-11-23T10:26:00.000Z",
+    "has_children": true,
+    "archived": false,
+    "type": "column_list",
+    "column_list": {
+      "children": {
+        "object": "list",
+        "results": [
+          {
+            "object": "block",
+            "id": "42a6d6f3-7f29-43b1-a278-1a0b8eaef713",
+            "created_time": "2021-11-22T10:43:00.000Z",
+            "last_edited_time": "2021-11-23T10:26:00.000Z",
+            "has_children": true,
+            "archived": false,
+            "type": "column",
+            "column": {
+              "children": {
+                "object": "list",
+                "results": [
+                  {
+                    "object": "block",
+                    "id": "18b194f4-4650-440d-a876-4e88f9854990",
+                    "created_time": "2021-11-22T10:40:00.000Z",
+                    "last_edited_time": "2021-12-01T13:41:00.000Z",
+                    "has_children": false,
+                    "archived": false,
+                    "type": "image",
+                    "image": {
+                      "caption": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "Picture",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "Picture",
+                          "href": null
+                        }
+                      ],
+                      "type": "file",
+                      "file": {
+                        "url": "https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e9e079b2-32ec-45c3-a6f2-d2905d3ecaed/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211207%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211207T101006Z&X-Amz-Expires=3600&X-Amz-Signature=254456d6c5ae5808f6a07fbbc2c08e2f5b85e2b14d0e37534e010d411f3df9d7&X-Amz-SignedHeaders=host&x-id=GetObject",
+                        "expiry_time": "2021-12-07T11:10:06.403Z"
+                      }
+                    }
+                  }
+                ],
+                "next_cursor": null,
+                "has_more": false
+              }
+            }
+          },
+          {
+            "object": "block",
+            "id": "55008957-930a-43a9-9373-326712b9c506",
+            "created_time": "2021-11-22T10:43:00.000Z",
+            "last_edited_time": "2021-11-23T10:26:00.000Z",
+            "has_children": true,
+            "archived": false,
+            "type": "column",
+            "column": {
+              "children": {
+                "object": "list",
+                "results": [
+                  {
+                    "object": "block",
+                    "id": "afe5349c-5347-46d2-87b4-27bfd3d72313",
+                    "created_time": "2021-11-22T10:40:00.000Z",
+                    "last_edited_time": "2021-11-23T10:26:00.000Z",
+                    "has_children": true,
+                    "archived": false,
+                    "type": "paragraph",
+                    "paragraph": {
+                      "text": [
+                        {
+                          "type": "text",
+                          "text": {
+                            "content": "We had simulators on....",
+                            "link": null
+                          },
+                          "annotations": {
+                            "bold": false,
+                            "italic": false,
+                            "strikethrough": false,
+                            "underline": false,
+                            "code": false,
+                            "color": "default"
+                          },
+                          "plain_text": "We had simulators on....",
+                          "href": null
+                        }
+                      ],
+                      "children": {
+                        "object": "list",
+                        "results": [
+                          {
+                            "object": "block",
+                            "id": "1ed1e0d0-4047-4662-b427-b8b550cfdeca",
+                            "created_time": "2021-11-22T10:40:00.000Z",
+                            "last_edited_time": "2021-11-22T10:40:00.000Z",
+                            "has_children": false,
+                            "archived": false,
+                            "type": "paragraph",
+                            "paragraph": {
+                              "text": [
+                                {
+                                  "type": "text",
+                                  "text": {
+                                    "content": "⇌ aerosol dispersal in climate models,",
+                                    "link": null
+                                  },
+                                  "annotations": {
+                                    "bold": false,
+                                    "italic": false,
+                                    "strikethrough": false,
+                                    "underline": false,
+                                    "code": false,
+                                    "color": "default"
+                                  },
+                                  "plain_text": "⇌ aerosol dispersal in climate models,",
+                                  "href": null
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "object": "block",
+                            "id": "55e111ed-13b3-486e-89a6-d402ffd6fb74",
+                            "created_time": "2021-11-22T10:40:00.000Z",
+                            "last_edited_time": "2021-11-22T10:40:00.000Z",
+                            "has_children": false,
+                            "archived": false,
+                            "type": "paragraph",
+                            "paragraph": {
+                              "text": [
+                                {
+                                  "type": "text",
+                                  "text": {
+                                    "content": "⇌ brain connectivity,",
+                                    "link": null
+                                  },
+                                  "annotations": {
+                                    "bold": false,
+                                    "italic": false,
+                                    "strikethrough": false,
+                                    "underline": false,
+                                    "code": false,
+                                    "color": "default"
+                                  },
+                                  "plain_text": "⇌ brain connectivity,",
+                                  "href": null
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "object": "block",
+                            "id": "c8484e20-0b5e-45d1-b971-05dbcfa2b52b",
+                            "created_time": "2021-11-22T10:40:00.000Z",
+                            "last_edited_time": "2021-11-22T10:40:00.000Z",
+                            "has_children": false,
+                            "archived": false,
+                            "type": "paragraph",
+                            "paragraph": {
+                              "text": [
+                                {
+                                  "type": "text",
+                                  "text": {
+                                    "content": "⇌ active hair bundles in the ear,",
+                                    "link": null
+                                  },
+                                  "annotations": {
+                                    "bold": false,
+                                    "italic": false,
+                                    "strikethrough": false,
+                                    "underline": false,
+                                    "code": false,
+                                    "color": "default"
+                                  },
+                                  "plain_text": "⇌ active hair bundles in the ear,",
+                                  "href": null
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "object": "block",
+                            "id": "9d333b59-661d-4fe1-b68d-121b78f8411a",
+                            "created_time": "2021-11-22T10:40:00.000Z",
+                            "last_edited_time": "2021-11-22T10:40:00.000Z",
+                            "has_children": false,
+                            "archived": false,
+                            "type": "paragraph",
+                            "paragraph": {
+                              "text": [
+                                {
+                                  "type": "text",
+                                  "text": {
+                                    "content": "⇌ distribution of cosmic dark matter,",
+                                    "link": null
+                                  },
+                                  "annotations": {
+                                    "bold": false,
+                                    "italic": false,
+                                    "strikethrough": false,
+                                    "underline": false,
+                                    "code": false,
+                                    "color": "default"
+                                  },
+                                  "plain_text": "⇌ distribution of cosmic dark matter,",
+                                  "href": null
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "object": "block",
+                            "id": "cc4b4e8b-356e-463f-b512-93f170e1ddd7",
+                            "created_time": "2021-11-22T10:40:00.000Z",
+                            "last_edited_time": "2021-11-22T10:40:00.000Z",
+                            "has_children": false,
+                            "archived": false,
+                            "type": "paragraph",
+                            "paragraph": {
+                              "text": [
+                                {
+                                  "type": "text",
+                                  "text": {
+                                    "content": "⇌ neutron-star mergers,",
+                                    "link": null
+                                  },
+                                  "annotations": {
+                                    "bold": false,
+                                    "italic": false,
+                                    "strikethrough": false,
+                                    "underline": false,
+                                    "code": false,
+                                    "color": "default"
+                                  },
+                                  "plain_text": "⇌ neutron-star mergers,",
+                                  "href": null
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "object": "block",
+                            "id": "174a96b2-34b4-41c0-8e41-76270e328f01",
+                            "created_time": "2021-11-22T10:40:00.000Z",
+                            "last_edited_time": "2021-11-22T10:40:00.000Z",
+                            "has_children": false,
+                            "archived": false,
+                            "type": "paragraph",
+                            "paragraph": {
+                              "text": [
+                                {
+                                  "type": "text",
+                                  "text": {
+                                    "content": "⇌ cell migration, ",
+                                    "link": null
+                                  },
+                                  "annotations": {
+                                    "bold": false,
+                                    "italic": false,
+                                    "strikethrough": false,
+                                    "underline": false,
+                                    "code": false,
+                                    "color": "default"
+                                  },
+                                  "plain_text": "⇌ cell migration, ",
+                                  "href": null
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "object": "block",
+                            "id": "e3a61f99-e9fc-4239-9302-e2013cff329c",
+                            "created_time": "2021-11-22T10:40:00.000Z",
+                            "last_edited_time": "2021-11-22T10:43:00.000Z",
+                            "has_children": false,
+                            "archived": false,
+                            "type": "paragraph",
+                            "paragraph": {
+                              "text": [
+                                {
+                                  "type": "text",
+                                  "text": {
+                                    "content": "and more!",
+                                    "link": null
+                                  },
+                                  "annotations": {
+                                    "bold": false,
+                                    "italic": false,
+                                    "strikethrough": false,
+                                    "underline": false,
+                                    "code": false,
+                                    "color": "default"
+                                  },
+                                  "plain_text": "and more!",
+                                  "href": null
+                                }
+                              ]
+                            }
+                          }
+                        ],
+                        "next_cursor": null,
+                        "has_more": false
+                      }
+                    }
+                  }
+                ],
+                "next_cursor": null,
+                "has_more": false
+              }
+            }
+          }
+        ],
+        "next_cursor": null,
+        "has_more": false
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "06a8ebcb-a29a-44cd-a23f-9dd3ef0f0ed8",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What did we teach?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What did we teach?",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "1ca54156-3034-4d89-8cc8-8a3f9c209d34",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "On ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "On ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Day 1, Álvaro",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Day 1, Álvaro",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " took us on a journey towards likelihood-free parameter inference in mechanistic simulators. The need for simulation-based inference was reinforced by watching ABC rejecting samples and further motivated with an deep-dive into an application from neuroscience by ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " took us on a journey towards likelihood-free parameter inference in mechanistic simulators. The need for simulation-based inference was reinforced by watching ABC rejecting samples and further motivated with an deep-dive into an application from neuroscience by ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Pedro",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Pedro",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ".",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "b2724484-fbee-47c9-b4d4-fc235b617792",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Day 2",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Day 2",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " built the theoretical and conceptual foundation for SBI. In instructive step-by-step tutorials, ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " built the theoretical and conceptual foundation for SBI. In instructive step-by-step tutorials, ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Michael",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Michael",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " and ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " and ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "David",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "David",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " took us from basic conditional density estimation all the way to state-of-the-art neural techniques.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " took us from basic conditional density estimation all the way to state-of-the-art neural techniques.",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "e73baee0-2d66-471d-8057-da98918c1fd6",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "On ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "On ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Day 3",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Day 3",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " we were ready to get to the heart of the workshop: the ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " we were ready to get to the heart of the workshop: the ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "sbi",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sbi",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " toolbox. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " toolbox. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Jan",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jan",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " and ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " and ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Jan-Matthis",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jan-Matthis",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " covered all aspects relevant to the user in presentations and hands-on practicals ranging from the basic usage over benchmarking neural methods and ABC to pathologies that may arise and how to troubleshoot. The workshop concluded with an extensive open session in which we got to integrate our own simulators with ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " covered all aspects relevant to the user in presentations and hands-on practicals ranging from the basic usage over benchmarking neural methods and ABC to pathologies that may arise and how to troubleshoot. The workshop concluded with an extensive open session in which we got to integrate our own simulators with ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "sbi",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": true,
+            "color": "default"
+          },
+          "plain_text": "sbi",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " with one-on-one advice by the instructors. The enthusiasm by the audience sparked impromptu bonus sessions on model comparison and normalizing flows by ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " with one-on-one advice by the instructors. The enthusiasm by the audience sparked impromptu bonus sessions on model comparison and normalizing flows by ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Jan",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jan",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " and ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " and ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Michael",
+            "link": null
+          },
+          "annotations": {
+            "bold": true,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Michael",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ".",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "66a33b73-0a2c-4334-a6c9-245665cfde3c",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-23T12:20:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "callout",
+    "callout": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Find all lectures and tutorials (under a ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Find all lectures and tutorials (under a ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "free content license",
+            "link": {
+              "url": "https://creativecommons.org/licenses/by-sa/4.0/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "free content license",
+          "href": "https://creativecommons.org/licenses/by-sa/4.0/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ") in our ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ") in our ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "workshop page",
+            "link": {
+              "url": "https://mlcolab.org/sbi-workshop"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "workshop page",
+          "href": "https://mlcolab.org/sbi-workshop"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "!",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "!",
+          "href": null
+        }
+      ],
+      "icon": {
+        "type": "emoji",
+        "emoji": "⬇️"
+      }
+    }
+  },
+  {
+    "object": "block",
+    "id": "ba885fdc-077a-47f3-902c-a8e4cc48b0c6",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What did we learn?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What did we learn?",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "eb0fd06d-2d8f-406d-a7c4-36ab73601337",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Well, first the workshop was ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Well, first the workshop was ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "fun",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "fun",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". We had 14 extremely engaged participants whose smart questions pushed our instructors to the limits of today's research in simulation-based inference. For those who did not make it, fret not — we are thinking already about future editions!  we got very encouraging feedback and yet some good suggestions to improve.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". We had 14 extremely engaged participants whose smart questions pushed our instructors to the limits of today's research in simulation-based inference. For those who did not make it, fret not — we are thinking already about future editions!  we got very encouraging feedback and yet some good suggestions to improve.",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "4297b2b9-d862-4488-a88a-1eb8f363b4a5",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We are particularly happy about our collegial workshop team and the encouraging feedback we got from participants. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We are particularly happy about our collegial workshop team and the encouraging feedback we got from participants. ",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "18d1ece8-e0ed-4425-abfb-ee0331933a76",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Our fellow instructors and organizers were a phenomenal source of energy and good spirits. Our indefatigable ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Our fellow instructors and organizers were a phenomenal source of energy and good spirits. Our indefatigable ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Peter Steinbach",
+            "link": {
+              "url": "https://twitter.com/psteinb_"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Peter Steinbach",
+          "href": "https://twitter.com/psteinb_"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " from Helmholtz Zentrum Dresden-Rossendorf was the ideator and voice of experience. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " from Helmholtz Zentrum Dresden-Rossendorf was the ideator and voice of experience. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Álvaro Tejero-Cantero",
+            "link": {
+              "url": "https://twitter.com/alvorithm"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Álvaro Tejero-Cantero",
+          "href": "https://twitter.com/alvorithm"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Pedro Gonçalves",
+            "link": {
+              "url": "https://ppjgoncalves.github.io/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Pedro Gonçalves",
+          "href": "https://ppjgoncalves.github.io/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Michael Deistler",
+            "link": {
+              "url": "https://michaeldeistler.github.io/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Michael Deistler",
+          "href": "https://michaeldeistler.github.io/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "David Greenberg, ",
+            "link": {
+              "url": "https://twitter.com/dvdgbg"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "David Greenberg, ",
+          "href": "https://twitter.com/dvdgbg"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Jan Bölts",
+            "link": {
+              "url": "https://twitter.com/janfiete"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jan Bölts",
+          "href": "https://twitter.com/janfiete"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Jan-Matthis Lueckmann",
+            "link": {
+              "url": "https://www.jan-matthis.de/"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Jan-Matthis Lueckmann",
+          "href": "https://www.jan-matthis.de/"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " took up the challenge and developed specific content for the workshop's learning goals. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " took up the challenge and developed specific content for the workshop's learning goals. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Daniela Huppenkothen",
+            "link": {
+              "url": "https://twitter.com/Tiana_Athriel"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Daniela Huppenkothen",
+          "href": "https://twitter.com/Tiana_Athriel"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " contributed a structured selection process, and many useful tips (and fun tweets!). ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " contributed a structured selection process, and many useful tips (and fun tweets!). ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Stefan Kesselheim",
+            "link": {
+              "url": "https://www.helmholtz.ai/themenmenue/our-research/consultant-teams/helmholtz-ai-consultants-fzj/index.html"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Stefan Kesselheim",
+          "href": "https://www.helmholtz.ai/themenmenue/our-research/consultant-teams/helmholtz-ai-consultants-fzj/index.html"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " from HAICORE unleashed an arsenal of computing power from the Jülich supercomputing facility. On the ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " from HAICORE unleashed an arsenal of computing power from the Jülich supercomputing facility. On the ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "ML colab side",
+            "link": {
+              "url": "https://mlcolab.org/team"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "ML colab side",
+          "href": "https://mlcolab.org/team"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", Álvaro took the lead of the organization, which would not have been possible without ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", Álvaro took the lead of the organization, which would not have been possible without ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Stefan Wezel",
+            "link": {
+              "url": "https://github.com/wastedsummer"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Stefan Wezel",
+          "href": "https://github.com/wastedsummer"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " with his insuperable good humor and ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " with his insuperable good humor and ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Elena Sizana",
+            "link": {
+              "url": "https://mlcolab.org/Elena-Sizana-1d1c2165beb0467f8810c78c581417b0"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Elena Sizana",
+          "href": "https://mlcolab.org/Elena-Sizana-1d1c2165beb0467f8810c78c581417b0"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " keeping the wheels turning. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " keeping the wheels turning. ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "Alex Gessner",
+            "link": {
+              "url": "https://twitter.com/alpiges"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Alex Gessner",
+          "href": "https://twitter.com/alpiges"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": " reviewed ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": " reviewed ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "all ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": true,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "all ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "the content, improving flow and consistency across the board. ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "the content, improving flow and consistency across the board. ",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "26ea0194-8391-4a88-8bd2-428b8b1c685a",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We can definitely recommend to collect daily feedback in anonymous pads (",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We can definitely recommend to collect daily feedback in anonymous pads (",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "day 1",
+            "link": {
+              "url": "https://notes.desy.de/FUwV3KniQUiQrRWdH9sb1w?view"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "day 1",
+          "href": "https://notes.desy.de/FUwV3KniQUiQrRWdH9sb1w?view"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "day 2",
+            "link": {
+              "url": "https://notes.desy.de/O4OwuQMIQ0CJDDeXEn013w?edit#"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "day 2",
+          "href": "https://notes.desy.de/O4OwuQMIQ0CJDDeXEn013w?edit#"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ", and ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ", and ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "day 3",
+            "link": {
+              "url": "https://notes.desy.de/0rEpuCBnSi-6kB5KaZl8IA?view#Day-3-Feedback"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "day 3",
+          "href": "https://notes.desy.de/0rEpuCBnSi-6kB5KaZl8IA?view#Day-3-Feedback"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ".). Discussing it right at the beginning every day helped us react online to the students' needs. As for the final feedback survey, we received a 5/5 overall rating from all 11 respondents; 10/11 would recommend (1 undecided). Quite surprisingly, after three days, everybody was still onboard (8 found the length just right) and 3 even wanted more. Some suggested additional topics (a full discussion of normalizing flows, for example), and we will certainly consider that in the future depending on the backgrounds of the audience. The full ratings and some quite nice sentiments are ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ".). Discussing it right at the beginning every day helped us react online to the students' needs. As for the final feedback survey, we received a 5/5 overall rating from all 11 respondents; 10/11 would recommend (1 undecided). Quite surprisingly, after three days, everybody was still onboard (8 found the length just right) and 3 even wanted more. Some suggested additional topics (a full discussion of normalizing flows, for example), and we will certainly consider that in the future depending on the backgrounds of the audience. The full ratings and some quite nice sentiments are ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "available here",
+            "link": {
+              "url": "https://unitc-my.sharepoint.com/:x:/g/personal/qzbsi01_cloud_uni-tuebingen_de/Ec5Flq650n9GrziaJBO5RioBIfJjMjUw84L6hNuH_gj2Dg?e=Xzk99L"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "available here",
+          "href": "https://unitc-my.sharepoint.com/:x:/g/personal/qzbsi01_cloud_uni-tuebingen_de/Ec5Flq650n9GrziaJBO5RioBIfJjMjUw84L6hNuH_gj2Dg?e=Xzk99L"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". ",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "a880aa98-8b9a-4f29-a597-a49e0685362e",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Online events come with their own difficulties but there are also upsides — we had good discussions on our online SBI channel in Zulip, which provides a platform for exchanges on simulation-based inference beyond the workshop. Do write to us if you are interested in joining the community.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Online events come with their own difficulties but there are also upsides — we had good discussions on our online SBI channel in Zulip, which provides a platform for exchanges on simulation-based inference beyond the workshop. Do write to us if you are interested in joining the community.",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "c7f6c44b-9cd1-448c-97a5-639d7814d663",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "heading_2",
+    "heading_2": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "What next?",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "What next?",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "faf2fd24-b925-4f39-a1fd-1ea0d0399c42",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "We are excited about the new science that this workshop might help to boost!",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "We are excited about the new science that this workshop might help to boost!",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "78980959-8854-4086-b1ac-c87e9f1ded10",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "If you missed the workshop, all you need to get started is the ",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "If you missed the workshop, all you need to get started is the ",
+          "href": null
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": "sbi toolkit",
+            "link": {
+              "url": "https://github.com/mackelab/sbi"
+            }
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "sbi toolkit",
+          "href": "https://github.com/mackelab/sbi"
+        },
+        {
+          "type": "text",
+          "text": {
+            "content": ". Follow the tutorials of the package, test our workshop examples, or be bold and try it with your own simulator!",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": ". Follow the tutorials of the package, test our workshop examples, or be bold and try it with your own simulator!",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "23807dde-e43d-418e-8475-6eecf67e5565",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "As for us, after many coordinating sessions over five months and long hours preparing materials and infrastructure, we're ready for some rest.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "As for us, after many coordinating sessions over five months and long hours preparing materials and infrastructure, we're ready for some rest.",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "6b0ef8d2-98cf-425a-9848-f49340ec2db9",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Until the next edition: may all your broad priors refine into well-calibrated posteriors,",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Until the next edition: may all your broad priors refine into well-calibrated posteriors,",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "cd9a1284-36a2-4e01-a3bd-d39d833a7711",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": []
+    }
+  },
+  {
+    "object": "block",
+    "id": "5a502fd7-503d-4694-87d2-32789462577e",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": [
+        {
+          "type": "text",
+          "text": {
+            "content": "Álvaro Tejero-Cantero, Alex Gessner, and Seth Axen, \nMachine Learning ⇌ Science Colaboratory.",
+            "link": null
+          },
+          "annotations": {
+            "bold": false,
+            "italic": false,
+            "strikethrough": false,
+            "underline": false,
+            "code": false,
+            "color": "default"
+          },
+          "plain_text": "Álvaro Tejero-Cantero, Alex Gessner, and Seth Axen, \nMachine Learning ⇌ Science Colaboratory.",
+          "href": null
+        }
+      ]
+    }
+  },
+  {
+    "object": "block",
+    "id": "bf3b98b1-32dd-4734-944c-bcbe4bc8fbdd",
+    "created_time": "2021-11-22T10:40:00.000Z",
+    "last_edited_time": "2021-11-22T10:40:00.000Z",
+    "has_children": false,
+    "archived": false,
+    "type": "paragraph",
+    "paragraph": {
+      "text": []
+    }
+  }
+]
